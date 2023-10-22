@@ -15,8 +15,8 @@ This is a description of a teaching experience. You can use markdown like any ot
 Definition List Title
 :   Definition list division.
 
-| Session | Type    | Topic |
-|:--------|:-------:|--------:|
-| 01      | Lecture      | Budget Constraints   |
-| 02      | Recitation   | Preferences and Utility Functions   |
-|-----------------------------|
+| Session | Type         | Topic                                 |
+|:--------|:------------:|--------------------------------------:|
+| 01      | Lecture      | Budget Constraints                    |
+| 02      | Recitation   | Preferences and Utility Functions     |
+|----------------------------------------------------------------|
