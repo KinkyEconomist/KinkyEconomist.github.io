@@ -18,10 +18,10 @@ Course Description
 Calendar
 :    Detailed Schedule
 
-| Session   | Type         |  Topic                                      |
-| --------  | ------------ | ------------------------------------------- |
-| 01        | Lecture      | Budget Constraints                          |
-| 02        | Lecture      | Preferences and Utility Functions           |
-| 03        | Lecture      | Consumer Choice                             |
-| 04        | Lecture      | Demand Curve                                |
-| 05        | Lecture      | Elasticity                                  |
+| Session    | Type         |  Topic                                      |
+| --------   | ------------ | ------------------------------------------- |
+| L01        | Lecture      | Budget Constraints                          |
+| L02        | Lecture      | Preferences and Utility Functions           |
+| L03        | Lecture      | Consumer Choice                             |
+| L04        | Lecture      | Demand Curve                                |
+| L05        | Lecture      | Elasticity                                  |
