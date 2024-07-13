@@ -21,4 +21,7 @@ Calendar
 | Session   | Type         |  Topic                                      |
 | --------  | ------------ | ------------------------------------------- |
 | 01        | Lecture      | Budget Constraints                          |
-| 02        | Recitation   | Preferences and Utility Functions           |
+| 02        | Lecture      | Preferences and Utility Functions           |
+| 03        | Lecture      | Consumer Choice                             |
+| 04        | Lecture      | Demand Curve                                |
+| 05        | Lecture      | Elasticity                                  |
